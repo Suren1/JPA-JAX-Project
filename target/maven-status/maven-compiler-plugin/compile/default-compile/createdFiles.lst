@@ -1,0 +1,4 @@
+com\leapfrog\jpajaxproject\api\DepartmentAPI.class
+com\leapfrog\jpajaxproject\dao\DepartmentDAO.class
+com\leapfrog\jpajaxproject\entity\Department.class
+com\leapfrog\jpajaxproject\dao\impl\DepartmentDAOImpl.class
